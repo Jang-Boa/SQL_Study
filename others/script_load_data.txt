@@ -1,0 +1,3 @@
+LOAD DATA  INFILE 'department.txt' INTO TABLE department;
+
+

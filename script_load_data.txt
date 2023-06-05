@@ -1,0 +1,6 @@
+LOAD DATA  INFILE 'department.txt' INTO TABLE department;
+LOAD DATA  INFILE 'course.txt' INTO TABLE course;
+LOAD DATA  INFILE 'student.txt' INTO TABLE student;
+LOAD DATA  INFILE 'instructor.txt' INTO TABLE instructor;
+LOAD DATA  INFILE 'all_list.txt' INTO TABLE all_list;
+LOAD DATA  INFILE 'take_course.txt' INTO TABLE take_course;
